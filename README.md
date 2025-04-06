@@ -1,20 +1,27 @@
 # ASGS Webmaster Challenge
 
-[Demo Video Here]()
+[Demo Video Here]()<br>
+
 [Video Instructions on Running Here]()
 
 ## Running the Application Locally
 
-First, install the npm dependencies:
+Firstly, clone the repository:
+
+```bash
+git clone https://github.com/ryanDing26/asgs-webmaster-challenge.git
+```
+
+Then, install the npm dependencies:
 
 ```bash
 npm install
 ```
 
-Then, run the application with:
+After that, run the application with:
 
 ```bash
 npm run dev
 ```
 
-Finally, open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Now, you can open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
